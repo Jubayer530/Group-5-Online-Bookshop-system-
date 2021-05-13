@@ -31,8 +31,7 @@ body{
 <img src = "images/pic8.jpg" width = "240px" height = "140px">
 <br><br><br><a href = "userinfo.php"><b>User Information</b></a>
 <br><br><a href ="booklist.php"><b>Book List</b></a>
-<br><br><a href ="mainpage.php"><b>About us</b></a>
-<br><br><a href ="admin_login.php"><b>Admin Panel Login</b></a>
+<br><br><a href ="aboutus.php"><b>About us</b></a>
 <br><br><a href = "login.php?logout=true"><b>Log out</b></a>
 
 </body>

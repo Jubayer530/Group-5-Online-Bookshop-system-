@@ -37,7 +37,7 @@ require_once "controllers/dashboard_controller.php";
 			<br><a href="delivery_man.php" ><b>Delivery Man</b></a></br>
 			<br><a href="books.php" ><b>Books</b></a></br>
 			<br><a href="buyers_info.php" ><b>Buyers Info</b></a><br>
-			<br><a href="login.php" ><b>logout</b></a><br>
+			<br><a href="admin_login.php" ><b>logout</b></a><br>
 			
 			
 			
